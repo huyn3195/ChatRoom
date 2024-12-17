@@ -15,6 +15,7 @@ Implement Redis caching to improve the loading speed and use optimized query cal
 Download and install Android Studio from the official site: **[Download Android Studio](https://developer.android.com/studio?hl=vi):**
 Clone the repository and navigate to the project folder
 Located the MainActivityFile and run
-**Create a Firebase Account and console**
+
+**Create a Firebase Account and console:**
   Follow instruction on firebase 
 
